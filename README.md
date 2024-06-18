@@ -80,7 +80,7 @@ To use this project:
 Clone the repository to your local machine:
 bash
 Copy code
-```https://github.com/JhoanGZ/Indexed_DB.git```
+```git clone https://github.com/JhoanGZ/Indexed_DB.git```
 
 Open the index.html file in your browser to interact with the database management functionality.
 ## Contribution
