@@ -82,7 +82,9 @@ bash
 Copy code
 ```git clone https://github.com/JhoanGZ/Indexed_DB.git```
 
-Open the index.html file in your browser to interact with the database management functionality.
+Open Devtools in your browser to use it.
+Check for reserved functions in code in order to operate the project.
+
 ## Contribution
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue to improve this project.
 
