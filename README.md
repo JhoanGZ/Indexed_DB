@@ -83,7 +83,7 @@ Copy code
 ```git clone https://github.com/JhoanGZ/Indexed_DB.git```
 
 Open Devtools in your browser to use it.
-Check for reserved functions in code in order to operate the project.
+Check for reserved functions in code in order to use it.
 
 ## Contribution
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue to improve this project.
